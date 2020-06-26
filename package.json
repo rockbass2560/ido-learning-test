@@ -1,0 +1,30 @@
+{
+  "name": "ido-learning-test",
+  "version": "1.0.0",
+  "description": "Prueba para el ingreso al programa English for Node Developers",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rockbass2560/ido-learning-test.git"
+  },
+  "keywords": [
+    "node",
+    "javascript"
+  ],
+  "author": "Francisco Gonzalez Hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rockbass2560/ido-learning-test/issues"
+  },
+  "homepage": "https://github.com/rockbass2560/ido-learning-test#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "passport": "^0.4.1",
+    "passport-jwt": "^4.0.0"
+  }
+}
